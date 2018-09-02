@@ -1,0 +1,46 @@
+/* indian flower font */
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower'); 
+
+body
+{
+    background-color: mistyrose;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/* Cntering div*/
+div 
+{
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+li
+{
+    display: inline;
+    text-shadow: 10px;
+    margin: 20px; /* for spread icons */
+    font-size: 50px;
+}
+a 
+{
+    text-decoration: none;
+    color: crimson;
+}
+a:hover
+{
+    color: mistyrose;
+}
+ul
+{
+    background-color: black;
+    height: 30px;
+    padding: 30px; /* for top */
+}
